@@ -40,6 +40,10 @@
 
 <img src="https://assets.souche.com/assets/images/index_11/logo.png" width="200">
 
+### [Tapatalk](https://www.tapatalk.com/)
+
+<img src="https://d0.awsstatic.com/logos/customers/China/tapatalk-logo.png" alt="" width="200">
+
 ## 能报销 WWDC 的公司列表（大家自己 PR 吧）
 
 ### [美团点评](http://www.meituan.com)
