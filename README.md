@@ -32,5 +32,9 @@
 
 <img src="https://pubu.im/img/partners/shimo.png" width="200">
 
+### [大搜车](https://souche.com/)
+
+<img src="https://assets.souche.com/assets/images/index_11/logo.png" width="200">
+
 ## 能报销 WWDC 的公司列表（大家自己 PR 吧）
 
