@@ -34,7 +34,7 @@
 
 ### [石墨文档](https://shimo.im/)
 
-<img src="https://pubu.im/img/partners/shimo.png" width="200">
+<img src="http://static-cdn.shimo.im/logo.png" width="200">
 
 ### [大搜车](https://souche.com/)
 
