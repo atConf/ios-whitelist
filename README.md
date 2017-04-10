@@ -27,10 +27,18 @@
 
 <img src="http://www.uc.cn/images1_4/uclogo.png" width="200">
 
+### [甘果移动](http://ganguo.io)
+
+<img src="https://avatars1.githubusercontent.com/u/8032385?v=3&s=200" width="200">
+
 
 ### [石墨文档](https://shimo.im/)
 
-<img src="https://pubu.im/img/partners/shimo.png" width="200">
+<img src="http://static-cdn.shimo.im/logo.png" width="200">
+
+### [大搜车](https://souche.com/)
+
+<img src="https://assets.souche.com/assets/images/index_11/logo.png" width="200">
 
 ### [Tapatalk](https://www.tapatalk.com/)
 
@@ -38,4 +46,6 @@
 
 ## 能报销 WWDC 的公司列表（大家自己 PR 吧）
 
+### [美团点评](http://www.meituan.com)
 
+![美团点评](http://mssdn.sankuai.com/v1/mss_814dc1610cda4b2e8febd6ea2c809db5/image/1489026813356.png)
