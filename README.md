@@ -17,6 +17,5 @@
 ![](http://assets.dxycdn.com/app/dxy/img/logo@2x2.png)
 
 ### [Tapatalk](https://www.tapatalk.com/)
-<img src="https://d0.awsstatic.com/logos/customers/China/tapatalk-logo.png" alt="" width="200">
 
-~~报销1500RMB~~
+<img src="https://d0.awsstatic.com/logos/customers/China/tapatalk-logo.png" alt="" width="200">
