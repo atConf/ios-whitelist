@@ -30,7 +30,7 @@
 
 ### [石墨文档](https://shimo.im/)
 
-<img src="https://pubu.im/img/partners/shimo.png" width="200">
+<img src="http://static-cdn.shimo.im/logo.png" width="200">
 
 ## 能报销 WWDC 的公司列表（大家自己 PR 吧）
 
