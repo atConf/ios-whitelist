@@ -60,7 +60,7 @@
 
 ### [金山办公软件](http://www.kingsoft.com/)  
 
-![](/images/kingsoftlogo.jpg) 
+![](/images/kingsoftlogo.jpeg) 
 
 ***  
 ## 能报销 WWDC 的公司列表（大家自己 PR 吧）
@@ -75,5 +75,5 @@
 
 ### [金山办公软件](http://www.kingsoft.com/)  
 
-![](/images/kingsoftlogo.jpg)
+![](/images/kingsoftlogo.jpeg)
 
