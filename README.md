@@ -58,10 +58,11 @@
 
 <img src="https://wiredcraft.com/assets/logo.svg" width="200">  
 
-### [WPS](http://www.wps.cn/)  
+### [金山办公软件](http://www.kingsoft.com/)  
 
-<img src="http://www.wps.cn/script/css/img/index/newlogo.png">  
+<div style="background : url('http://www.kingsoft.com/templets/default/images/icon.png'); width: 81px; height: 29px;"></div>  
 
+***  
 ## 能报销 WWDC 的公司列表（大家自己 PR 吧）
 
 ### [即刻](http://www.ruguoapp.com/)
@@ -72,8 +73,8 @@
 
 ![美团点评](http://mssdn.sankuai.com/v1/mss_814dc1610cda4b2e8febd6ea2c809db5/image/1489026813356.png)  
 
-### [WPS](http://www.wps.cn/)  
+### [金山办公软件](http://www.kingsoft.com/)  
 
-<img src="http://www.wps.cn/script/css/img/index/newlogo.png">  
+<div style="background : url('http://www.kingsoft.com/templets/default/images/icon.png'); width: 81px; height: 29px;"></div>
 
 
