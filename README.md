@@ -60,7 +60,7 @@
 
 ### [金山办公软件](http://www.kingsoft.com/)  
 
-![](/images/kingsoftlogo.jpeg) 
+![](/images/kingsoftlogo.jpeg)
 
 ### [英语流利说](https://liulishuo.com)
 
@@ -87,3 +87,7 @@
 ### [英语流利说](https://liulishuo.com)
 
 <img src="https://dn-llss.qbox.me/iOS_Builds/icon512x512.png" width="200">
+
+### [网易](http://www.163.com)
+
+![网易](/images/netease_logo.png)
