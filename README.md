@@ -60,7 +60,7 @@
 
 ### [金山办公软件](http://www.kingsoft.com/)  
 
-<div style="background : url('http://www.kingsoft.com/templets/default/images/icon.png'); width: 81px; height: 29px;"></div>  
+![](/images/kingsoftlogo.jpg) 
 
 ***  
 ## 能报销 WWDC 的公司列表（大家自己 PR 吧）
@@ -75,6 +75,5 @@
 
 ### [金山办公软件](http://www.kingsoft.com/)  
 
-<div style="background : url('http://www.kingsoft.com/templets/default/images/icon.png'); width: 81px; height: 29px;"></div>
-
+![](/images/kingsoftlogo.jpg)
 
