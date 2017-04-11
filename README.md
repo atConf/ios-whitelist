@@ -66,6 +66,10 @@
 
 <img src="https://dn-llss.qbox.me/iOS_Builds/icon512x512.png" width="200">
 
+### [百度](http://www.baidu.com/)
+
+<img src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png" width="200">
+
 ## 能报销 WWDC 的公司列表（大家自己 PR 吧）
 
 ### [即刻](http://www.ruguoapp.com/)
