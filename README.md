@@ -56,7 +56,11 @@
 
 ### [Wiredcraft](https://wiredcraft.com)
 
-<img src="https://wiredcraft.com/assets/logo.svg" width="200">
+<img src="https://wiredcraft.com/assets/logo.svg" width="200">  
+
+### [金山办公软件](http://www.kingsoft.com/)  
+
+![](/images/kingsoftlogo.jpeg) 
 
 ### [英语流利说](https://liulishuo.com)
 
@@ -70,7 +74,11 @@
 
 ### [美团点评](http://www.meituan.com)
 
-![美团点评](http://mssdn.sankuai.com/v1/mss_814dc1610cda4b2e8febd6ea2c809db5/image/1489026813356.png)
+![美团点评](http://mssdn.sankuai.com/v1/mss_814dc1610cda4b2e8febd6ea2c809db5/image/1489026813356.png)  
+
+### [金山办公软件](http://www.kingsoft.com/)  
+
+![](/images/kingsoftlogo.jpeg)
 
 ### [英语流利说](https://liulishuo.com)
 
