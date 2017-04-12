@@ -73,7 +73,7 @@
 
 <img src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png" width="200">
 
-## 能报销 WWDC 的公司列表（大家自己 PR 吧）<a name=2017-swift></a>
+## 能报销 WWDC 的公司列表（大家自己 PR 吧）<a name=wwdc></a>
 
 ### [即刻](http://www.ruguoapp.com/)
 
