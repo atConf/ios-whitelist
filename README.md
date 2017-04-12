@@ -56,7 +56,19 @@
 
 ### [Wiredcraft](https://wiredcraft.com)
 
-<img src="https://wiredcraft.com/assets/logo.svg" width="200">
+<img src="https://wiredcraft.com/assets/logo.svg" width="200">  
+
+### [金山办公软件](http://www.kingsoft.com/)  
+
+![](/images/kingsoftlogo.jpeg) 
+
+### [英语流利说](https://liulishuo.com)
+
+<img src="https://dn-llss.qbox.me/iOS_Builds/icon512x512.png" width="200">
+
+### [百度](http://www.baidu.com/)
+
+<img src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png" width="200">
 
 ## 能报销 WWDC 的公司列表（大家自己 PR 吧）
 
@@ -66,7 +78,15 @@
 
 ### [美团点评](http://www.meituan.com)
 
-![美团点评](http://mssdn.sankuai.com/v1/mss_814dc1610cda4b2e8febd6ea2c809db5/image/1489026813356.png)
+![美团点评](http://mssdn.sankuai.com/v1/mss_814dc1610cda4b2e8febd6ea2c809db5/image/1489026813356.png)  
+
+### [金山办公软件](http://www.kingsoft.com/)  
+
+![](/images/kingsoftlogo.jpeg)
+
+### [英语流利说](https://liulishuo.com)
+
+<img src="https://dn-llss.qbox.me/iOS_Builds/icon512x512.png" width="200">
 
 ### [LINE](https://line.me/zh-hans/)
 
