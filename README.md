@@ -73,6 +73,10 @@
 
 <img src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png" width="200">
 
+### [Strikingly(上线了)](https://www.strikingly.com/)
+
+<img src="https://s3-ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/static/marketing/strikingly-purple-logo.png" width="200">
+
 ## 能报销 WWDC 的公司列表（大家自己 PR 吧）<a name=wwdc></a>
 
 ### [即刻](http://www.ruguoapp.com/)
@@ -102,3 +106,7 @@
 ### [探探](http://tantanapp.com)
 
 <img src="http://is4.mzstatic.com/image/thumb/Purple111/v4/54/b9/23/54b923a1-4b27-9120-c6f7-363feb165813/source/175x175bb.jpg" width="200">
+
+### [Strikingly(上线了)](https://www.strikingly.com/)
+
+<img src="https://s3-ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/static/marketing/strikingly-purple-logo.png" width="200">
