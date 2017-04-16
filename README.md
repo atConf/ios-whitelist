@@ -77,6 +77,11 @@
 
 <img src="https://s3-ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/static/marketing/strikingly-purple-logo.png" width="200">
 
+### [CVTE](http://campus.cvte.com/)
+
+![](http://static.cvte.com/file/cvte/campus.cvte.com/dist/assets/img/logo.png)
+
+
 ## 能报销 WWDC 的公司列表（大家自己 PR 吧）<a name=wwdc></a>
 
 ### [即刻](http://www.ruguoapp.com/)
