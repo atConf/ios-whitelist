@@ -79,7 +79,7 @@
 
 ### [CVTE](http://campus.cvte.com/)
 
-![](http://static.cvte.com/file/cvte/campus.cvte.com/dist/assets/img/logo.png)
+<img src="http://static.cvte.com/file/cvte/campus.cvte.com/dist/assets/img/logo.png" width="200">
 
 
 ## 能报销 WWDC 的公司列表（大家自己 PR 吧）<a name=wwdc></a>
