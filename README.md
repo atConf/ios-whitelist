@@ -115,3 +115,8 @@
 ### [Strikingly(上线了)](https://www.strikingly.com/)
 
 <img src="https://s3-ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/static/marketing/strikingly-purple-logo.png" width="200">
+
+### [云之家](http://www.yunzhijia.com)
+
+<img src="http://www.yunzhijia.com/home/images/web-logo.png" width="200">
+
