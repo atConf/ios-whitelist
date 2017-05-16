@@ -81,6 +81,9 @@
 
 <img src="http://static.cvte.com/file/cvte/campus.cvte.com/dist/assets/img/logo.png" width="200">
 
+### [Camera360](http://www.camera360.com/)  
+
+![](/images/CAMERA360-LOGO.jpeg)
 
 ## 能报销 WWDC 的公司列表（大家自己 PR 吧）<a name=wwdc></a>
 
