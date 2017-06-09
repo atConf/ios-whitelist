@@ -91,7 +91,7 @@
 
 ### [Camera360](http://www.camera360.com/)  
 
-![](/images/CAMERA360-LOGO.jpeg)
+![](/images/CAMERA360-LOGO.jpg)
 
 
 ## 能报销 WWDC 的公司列表（大家自己 PR 吧）<a name=wwdc></a>
@@ -134,5 +134,5 @@
 
 ### [Camera360](http://www.camera360.com/)  
 
-![](/images/CAMERA360-LOGO.jpeg)
+![](/images/CAMERA360-LOGO.jpg)
 
